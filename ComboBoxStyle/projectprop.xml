@@ -1,0 +1,24 @@
+<properties>
+    <attributes name="project.type" value="js"/>
+    <attributes name="appidkey" value="ComboBoxStyle"/>
+    <attributes name="mwaddrkey" value="192.168.0.23"/>
+    <attributes name="iospopuptransitioncorrection" value="true"/>
+    <attributes name="isNewAppWithRespectToAndroidPackageName" value="true"/>
+    <attributes name="vendornamekey" value="KonyLabs"/>
+    <attributes name="createdgaversion" value="6.5.0"/>
+    <attributes name="iostextboxpaddingcorrection" value="true"/>
+    <attributes name="win6xj2meonlysupported" value="false"/>
+    <attributes name="iosrespectimagesizecorrection" value="true"/>
+    <attributes name="ioscheckboxcorrection" value="true"/>
+    <attributes name="apppackagekey" value="com.orgname.ComboBoxStyle"/>
+    <attributes name="winmangotiletitlekey" value="ComboBoxStyle"/>
+    <attributes name="andtargetsdkkey" value="2.3.3"/>
+    <attributes name="build" value="debug"/>
+    <attributes name="iphonebundleidentifierkey" value="com.kony.ComboBoxStyle"/>
+    <attributes name="appnamekey" value="ComboBoxStyle"/>
+    <attributes name="marginsincludedinwidgetcontainerweight" value="true"/>
+    <attributes name="currentgaversion" value="6.5.2.GA_v201509231311_r1"/>
+    <attributes name="mwportkey" value="80"/>
+    <attributes name="appversionkey" value="1.0.0"/>
+    <attributes name="mwhttpsportkey" value="443"/>
+</properties>
